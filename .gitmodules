@@ -1,0 +1,3 @@
+[submodule "espy_dive_micropython"]
+	path = espy_dive_micropython
+	url = git@github.com:minyiky/espy_dive_micropython.git
