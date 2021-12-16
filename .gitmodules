@@ -1,3 +1,4 @@
 [submodule "micropython"]
 	path = micropython
 	url = git@github.com:minyiky/espy_dive_micropython.git
+	branch = master
