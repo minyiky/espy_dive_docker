@@ -1,5 +1,5 @@
 [submodule "micropython"]
 	path = micropython
-	url = https://github.com/lvgl/lv_micropython.git
+	url = git@github.com:minyiky/espy_dive_micropython.git
 	branch = master
-	update = rebase
+	update = merge
