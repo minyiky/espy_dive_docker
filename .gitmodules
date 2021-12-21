@@ -2,3 +2,4 @@
 	path = micropython
 	url = https://github.com/lvgl/lv_micropython.git
 	branch = master
+	update = merge
